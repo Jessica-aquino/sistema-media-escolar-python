@@ -1,13 +1,33 @@
-Primeiro projeto publicado no GitHub 🚀
+# Sistema de Média Escolar em Python
 
-Desenvolvi um Sistema de Média Escolar em Python durante meus estudos de Lógica de Programação e Algoritmos.
+Meu primeiro projeto em Python desenvolvido durante meus estudos de Lógica de Programação e Algoritmos.
 
-Além do código, também pratiquei:
-• Fluxograma
-• Pseudocódigo
-• Teste de mesa
-• Estrutura lógica do programa
+## Objetivo
+Praticar lógica de programação desde o planejamento até o código.
 
-Estou focando em aprender programação da base, entendendo o processo completo antes de avançar para projetos maiores.
+## O que o programa faz
+- Recebe o nome do aluno
+- Recebe duas notas
+- Calcula a média
+- Mostra a situação do aluno:
+  - Aprovado
+  - Recuperação
+  - Reprovado
 
-Projeto:
+## Conceitos utilizados
+- Variáveis
+- input()
+- if / elif / else
+- Operadores matemáticos
+- Média aritmética
+- f-string
+- Lógica de programação
+- Fluxograma
+- Pseudocódigo
+
+## Tecnologias
+- Python
+- GitHub
+
+## Desenvolvido por
+Jéssica Aquino
